@@ -1,0 +1,26 @@
+{
+  "name": "戦国群雄録",
+  "short_name": "戦国群雄録",
+  "description": "内政・外交・ヘックス合戦で九か国十八城を統一する戦国戦略ゲーム",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#121a19",
+  "theme_color": "#121a19",
+  "icons": [
+    {
+      "src": "./icons/sengoku-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/sengoku-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
